@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Projetos</string>
+    <string name="action_settings">Configurações</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="proj_card_ver">Ver</string>
+    <string name="proj_card_editar">Editar</string>
+    <string name="config_add_categoria">Configurar Categorias</string>
+    <string name="config_add_acao">Configurar Ações</string>
+    <string name="config_bases">Configurar Bases</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="toolbar_titulo_projetos">Projetos</string>
+    <string name="toolbar_titulo_configuracoes">Configurações</string>
+    <string name="toolbar_titulo_categorias">Categorias</string>
+    <string name="toolbar_titulo_acoes">Ações</string>
+    <string name="toolbar_titulo_bases">Bases</string>
+    <string name="config_base_baixa">Definir Base Baixa</string>
+    <string name="config_base_media">Definir Base Média</string>
+    <string name="config_base_media_alta">Definir Base Média/Alta</string>
+    <string name="config_base_alta">Definir Base Alta</string>
+    <string name="title_activity_projeto">ProjetoActivity</string>
+    <string name="tab_text_1">Detalhes</string>
+    <string name="tab_text_2">Levantamento</string>
+    <string name="proj_detalhe_titulo">Título do Projeto</string>
+    <string name="proj_detalhe_cliente">Cliente</string>
+    <string name="proj_detalhe_endereco">Endereço</string>
+    <string name="proj_detalhe_data">Data</string>
+    <string name="proj_detalhe_comentario">Comentários...</string>
+    <string name="proj_detalhe_metragem">Metragem Quadrada</string>
+    <string name="proj_detalhe_empreendimento">Empreendimento</string>
+    <string name="proj_levantamento_valor">Valor do Projeto: </string>
+    <string name="generico_valor">Valor</string>
+    <string name="generico_criar">Criar</string>
+    <string name="generico_cancelar">Cancelar</string>
+</resources>
